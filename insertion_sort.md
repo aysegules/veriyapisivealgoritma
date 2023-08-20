@@ -13,4 +13,5 @@ Best case: Aradığımız sayının dizinin en başında olması.
 .
 ![Alt text](<Screenshot 2023-08-20 172439.png>)
 
+* Big-O Notation: O(n)
 * Dizi sıralandıktan sonra 18 sayısı dizinin ortasında kalıyor dolayısıyla average case kapsamına girer.
